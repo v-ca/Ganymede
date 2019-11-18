@@ -5,7 +5,7 @@
 
 The following are links to view the interactive versions of each notebook:
 
-**Cryptographic Mathematics**: [ [Interactive Notebook](https://mybinder.org/v2/gh/v-ca/Ganymede/master?filepath=CryptoMath.ipynb) ]
+<strike>**Cryptographic Mathematics**: [ [Interactive Notebook] ]</strike> Temporarily removed
 
 **Additive Cyphers:**
 

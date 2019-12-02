@@ -5,7 +5,7 @@
 
 The following are links to view the interactive versions of each notebook:
 
-<strike>**Cryptographic Mathematics**: [ [Interactive Notebook] ]</strike> Temporarily removed
+**Cryptographic Mathematics**: [ [Interactive Notebook](https://mybinder.org/v2/gh/v-ca/Ganymede/master?filepath=CryptoMath.ipynb) ]
 
 **Additive Cyphers:**
 
@@ -32,4 +32,4 @@ The following are links to view the interactive versions of each notebook:
 
 **Modern encryption example:**
 
-  > ***Simple RSA Encryption Cypher***: [ [Interactive Notebook](https://mybinder.org/v2/gh/v-ca/Ganymede/master?filepath=RSA%20Cypher.ipynb) ]
+  > ***Simple RSA Encryption Cypher***: [ [Interactive Notebook](https://mybinder.org/v2/gh/v-ca/Ganymede/master?filepath=RSA%20Cypher.ipynb) | [PDF](https://github.com/v-ca/Ganymede/blob/master/pdf/RVincentCaldwell_RSA%20Cryptosystem.pdf) ]

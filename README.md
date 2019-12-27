@@ -1,5 +1,5 @@
 # Ganymede | Jupyter Cryptex
-### Evaluating and presenting cryptographic ciphers using Jupyter Notebooks for MAT394.
+### Evaluating and presenting cryptographic ciphers using Jupyter Notebooks.
 
 *Any commercial use of these notebooks is strictly prohibited without the express written concent of the author.*
 
